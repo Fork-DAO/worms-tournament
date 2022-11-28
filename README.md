@@ -1,6 +1,4 @@
-# worms-tournament
-Worms DAO Champion Cup
-# Worms DAO Champion Cup
+# Worms DAO Champions Cup
 
 ![](https://i.imgur.com/6imiiqz.png)
 
