@@ -17,6 +17,7 @@ Worms DAO Champion Cup
 * Engagement
 * Fidelity
 * Family
+* ...
 
 ## Requisites to play
 
